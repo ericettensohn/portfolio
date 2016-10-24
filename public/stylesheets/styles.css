@@ -1,0 +1,140 @@
+@import "https://fonts.googleapis.com/css?family=Lato";
+/* line 47, ../../compass/sass/styles.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 51, ../../compass/sass/styles.scss */
+.navbar {
+  background-color: white;
+  border-radius: 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+/* line 57, ../../compass/sass/styles.scss */
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  background-color: #efefef;
+}
+/* line 63, ../../compass/sass/styles.scss */
+body .container {
+  padding: 0;
+  margin: 0;
+}
+/* line 69, ../../compass/sass/styles.scss */
+body .container .top {
+  color: black;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+/* line 82, ../../compass/sass/styles.scss */
+body .container .top .top-text {
+  padding-top: 25vh;
+  color: #1623C6;
+}
+/* line 85, ../../compass/sass/styles.scss */
+body .container .top .top-text h1 {
+  font-size: 140px;
+  margin-bottom: 20px;
+}
+/* line 90, ../../compass/sass/styles.scss */
+body .container .top .top-text h2 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+/* line 102, ../../compass/sass/styles.scss */
+body .container .section-title-wrapper {
+  position: relative;
+  height: 99vh;
+  text-align: center;
+  margin: 0;
+}
+/* line 108, ../../compass/sass/styles.scss */
+body .container .section-title-wrapper .section-title {
+  padding-top: 25%;
+  font-size: 75px;
+  margin: 0;
+}
+/* line 114, ../../compass/sass/styles.scss */
+body .container .section-title-wrapper .section-chevron {
+  position: absolute;
+  top: initial;
+  bottom: 1%;
+  font-size: 50px;
+  text-align: center;
+}
+/* line 128, ../../compass/sass/styles.scss */
+body .title-container {
+  width: 100vw;
+  background-color: white;
+  padding-top: 15px;
+  padding-bottom: 40px;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 80px;
+}
+/* line 136, ../../compass/sass/styles.scss */
+body .title-container h1 {
+  color: #777;
+  font-size: 100px;
+}
+/* line 143, ../../compass/sass/styles.scss */
+body .projects {
+  overflow: hidden;
+  width: 100vw;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3f4c8+0,f2f2f2+32 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3f4c8+0,f2f2f2+16 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e5f2e9+0,f2f2f2+16,f2f2f2+86,e5f2e9+97 */
+  color: black;
+}
+/* line 188, ../../compass/sass/styles.scss */
+body .projects .project-row {
+  padding: 70px 50px;
+}
+/* line 197, ../../compass/sass/styles.scss */
+body .projects .project-row .project-text .project-title {
+  font-size: 50px;
+}
+/* line 202, ../../compass/sass/styles.scss */
+body .projects .project-row .project-left {
+  text-align: right;
+}
+/* line 213, ../../compass/sass/styles.scss */
+body .contact-links {
+  text-align: center;
+  width: 100vw;
+  margin: auto;
+  margin-bottom: 200px;
+}
+/* line 219, ../../compass/sass/styles.scss */
+body .contact-links .row {
+  width: 400px;
+  margin: auto;
+}
+/* line 222, ../../compass/sass/styles.scss */
+body .contact-links .row div {
+  text-align: center;
+}
+/* line 224, ../../compass/sass/styles.scss */
+body .contact-links .row div img {
+  width: 100px;
+  margin: auto;
+}
+/* line 233, ../../compass/sass/styles.scss */
+body .footer {
+  text-align: center;
+  width: 100vw;
+  color: #444444;
+}
+/* line 237, ../../compass/sass/styles.scss */
+body .footer p {
+  margin: auto;
+  width: 200px;
+}
+/* line 243, ../../compass/sass/styles.scss */
+body .clickable:hover {
+  cursor: pointer;
+  color: initial;
+}
