@@ -95,45 +95,49 @@ body .projects .project-row {
 }
 /* line 197, ../../compass/sass/styles.scss */
 body .projects .project-row .project-text .project-title {
-  font-size: 50px;
+  font-size: 4em;
 }
-/* line 202, ../../compass/sass/styles.scss */
+/* line 201, ../../compass/sass/styles.scss */
+body .projects .project-row .project-text p {
+  font-size: 1.5em;
+}
+/* line 206, ../../compass/sass/styles.scss */
 body .projects .project-row .project-left {
   text-align: right;
 }
-/* line 213, ../../compass/sass/styles.scss */
+/* line 217, ../../compass/sass/styles.scss */
 body .contact-links {
   text-align: center;
   width: 100vw;
   margin: auto;
   margin-bottom: 200px;
 }
-/* line 219, ../../compass/sass/styles.scss */
+/* line 223, ../../compass/sass/styles.scss */
 body .contact-links .row {
   width: 400px;
   margin: auto;
 }
-/* line 222, ../../compass/sass/styles.scss */
+/* line 226, ../../compass/sass/styles.scss */
 body .contact-links .row div {
   text-align: center;
 }
-/* line 224, ../../compass/sass/styles.scss */
+/* line 228, ../../compass/sass/styles.scss */
 body .contact-links .row div img {
   width: 100px;
   margin: auto;
 }
-/* line 233, ../../compass/sass/styles.scss */
+/* line 237, ../../compass/sass/styles.scss */
 body .footer {
   text-align: center;
   width: 100vw;
   color: #444444;
 }
-/* line 237, ../../compass/sass/styles.scss */
+/* line 241, ../../compass/sass/styles.scss */
 body .footer p {
   margin: auto;
   width: 200px;
 }
-/* line 243, ../../compass/sass/styles.scss */
+/* line 247, ../../compass/sass/styles.scss */
 body .clickable:hover {
   cursor: pointer;
   color: initial;
